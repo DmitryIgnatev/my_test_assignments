@@ -12,7 +12,7 @@
 4. Создание PDF файла с графиком средних скоростей в зависимости от отрезка времени.
 
 ### Демонстрация работы приложения:
-https://github.com/DmitryIgnatev/speed_tracker/assets/106831531/beab9d2f-1c0b-4031-a893-591e1a6d5e17
+https://github.com/DmitryIgnatev/my_test_assignments/assets/106831531/39edf17d-53ef-4a8b-b542-e03461dd116d
 
 ### Демонстрация PDF отчета:
-<img src="https://github.com/DmitryIgnatev/speed_tracker/assets/106831531/746c08d5-46db-4f3c-bb9c-a4c864a6baaa" height="440" />
+<img src="https://github.com/DmitryIgnatev/my_test_assignments/blob/main/git_assets/speed_tracker_pdf.png" height="440" />
