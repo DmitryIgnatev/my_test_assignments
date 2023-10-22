@@ -1,10 +1,4 @@
-<h1 align="center">
-  <p float="left">
-    <img src="https://github.com/DmitryIgnatev/omega_studio_test/blob/main/assets/pictures/png/Logo.png" height = "30" /> 
-    Omega studio test
-  </p> 
-</h1>
-
+# Omega studio test
 
 ## Final result:
 
